@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+.calculadora{
+
+    background-color: blue;
+    padding: 10px;
+
+}
+.pantalla{
+
+    background-color: rgb(42, 47, 46);
+    color:aliceblue;
+    text-align: right;
+    padding: 10px;
+    border-radius: 20px;
+    
+}
+.botones{
+
+    display: grid;
+    grid-template-columns: 60px;
+    
+
+}
